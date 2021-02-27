@@ -44,4 +44,4 @@ payload method that the attackers use.
 
 
 # This shows how Muddy Tweak work:
-[.](https://github.com/SIRAAnalyses/MuddyTweak/blob/main/reverse_tcp.png?raw=true)
+[.](https://raw.githubusercontent.com/SIRAAnalyses/MuddyTweak/main/reverse_tcp.png)
