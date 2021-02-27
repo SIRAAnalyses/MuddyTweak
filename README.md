@@ -41,3 +41,7 @@ SIRA discovered 2 files inside the source folder,the file is not the attackers
 used the methood “reverse TCP” for the attack to obtain an encrypted connection
 back from the victim to the attackers, this is a popular
 payload method that the attackers use.
+
+
+# This shows how Muddy Tweak work:
+[https://github.com/SIRAAnalyses/MuddyTweak/blob/main/reverse_tcp.png]
