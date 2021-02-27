@@ -4,7 +4,7 @@ The sample code of Muddy Tweak malware with explanation inside, more info can be
 
 5:45 PM Feb 21, 2021 SIRA received a report on an upcoming
 hazardous suspicious activity, from a first look, an unknown Iranian hacking group
-targeted many different communities on the social media called “Discord”.
+targets many different communities on the social media called “Discord”.
 In the information we got, the group consists of 10 or more people,
 experienced and beginners.
 In ten minutes SIRA decided to defend against the unknown group, in hopes to
