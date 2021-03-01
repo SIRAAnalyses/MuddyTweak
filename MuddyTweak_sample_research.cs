@@ -63,7 +63,7 @@ static void Main(){
 
 DateTime checks_for_today_date = DateTime.Today; // The malware checks the date time for today, the variable changed so it's easier to see what the code does.
 
-DateTime malware_may_not_work_in_7_days = HVxTSglIFVwtn.AddDays(7); // Then it scheduled the expired days for 7, the malware doesn't seem like it will delete itself, it will probably won't work anymore, see code below for more info.
+DateTime malware_may_not_work_in_7_days = HVxTSglIFVwtn.AddDays(7); // Then it scheduled the expired days for 7, the malware doesn't seem like it will delete itself, it will probably won't work anymore, see code below for more info. The variable changed so it's easier to see what the code does.
 
 if (checks_for_today_data < HVxTSglIFVwtn ) { // Checks the date of today, and checks how much days left for the malware to be able to be executable
 
